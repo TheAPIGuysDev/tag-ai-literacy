@@ -168,7 +168,8 @@ This is a living resource that evolves as AI technology advances, ensuring conte
 
 ## 📖 Resources
 
-- **Live Site:** [theapiguysdev.github.io/tag-ai-literacy](https://theapiguysdev.github.io/tag-ai-literacy/)
+- **Live Site:** [sites.theapiguys.com/ai-literacy](https://sites.theapiguys.com/ai-literacy/)
+- **Github Site:** [theapiguysdev.github.io/tag-ai-literacy](https://theapiguysdev.github.io/tag-ai-literacy/)
 - **MkDocs:** [mkdocs.org](https://www.mkdocs.org/)
 - **Repository:** [github.com/TheAPIGuysDev/tag-ai-literacy](https://github.com/TheAPIGuysDev/tag-ai-literacy)
 
