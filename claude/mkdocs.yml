@@ -1,0 +1,25 @@
+site_name: TAG AI Literacy Site
+site_description: WordPress subsite on Pressable
+site_author: The API Guys
+# Comment out site_url for local development - uncomment for GitHub Pages deploy
+# site_url: https://theapiguysdev.github.io/tag-ai-literacy/
+
+repo_name: TheAPIGuysDev/tag-ai-literacy
+repo_url: https://github.com/TheAPIGuysDev/tag-ai-literacy
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+markdown_extensions:
+  - admonition
+  - tables
+  - fenced_code
+
+nav:
+  - Home: index.md
+  - Research:
+    - Glossary: glossary.md
+    - Benefits and Risks: benefits-and-risks.md
+    - Products & Services: products-services.md
+    - Timeline: timeline.md
