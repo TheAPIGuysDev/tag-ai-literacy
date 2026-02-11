@@ -15,6 +15,19 @@ The TAG AI Literacy project provides a comprehensive, accessible resource to hel
 
 ---
 
+## 🎯 Mission
+
+Our goals are to:
+- **Clarify** complex AI terminology into understandable language
+- **Educate** on both capabilities and limitations of AI technologies
+- **Elucidate** real-world benefits, risks, and ethical considerations
+- **Empower** informed decision-making about AI adoption and usage
+- **Build** a foundation for AI literacy that grows with the technology
+
+This is a living resource that evolves as AI technology advances, ensuring content remains relevant and practical.
+
+---
+
 ## 📚 What's Included
 
 ### 🔤 [AI Glossary](https://theapiguysdev.github.io/tag-ai-literacy/glossary/)
@@ -150,19 +163,6 @@ tag-ai-literacy/
         ├── products-services.md      # AI tools
         └── timeline.md               # AI history
 ```
-
----
-
-## 🎯 Mission
-
-Our goals are to:
-- **Clarify** complex AI terminology into understandable language
-- **Educate** on both capabilities and limitations of AI technologies
-- **Elucidate** real-world benefits, risks, and ethical considerations
-- **Empower** informed decision-making about AI adoption and usage
-- **Build** a foundation for AI literacy that grows with the technology
-
-This is a living resource that evolves as AI technology advances, ensuring content remains relevant and practical.
 
 ---
 
