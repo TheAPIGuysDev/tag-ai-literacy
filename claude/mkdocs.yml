@@ -2,7 +2,7 @@ site_name: TAG AI Literacy Site
 site_description: WordPress subsite on Pressable
 site_author: The API Guys
 # Comment out site_url for local development - uncomment for GitHub Pages deploy
-# site_url: https://theapiguysdev.github.io/tag-ai-literacy/
+site_url: https://theapiguysdev.github.io/tag-ai-literacy/
 
 repo_name: TheAPIGuysDev/tag-ai-literacy
 repo_url: https://github.com/TheAPIGuysDev/tag-ai-literacy
